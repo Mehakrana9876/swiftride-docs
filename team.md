@@ -25,3 +25,4 @@ This project demonstrates a collaborative Git workflow where:
 - Account A works as Owner using Git Bash
 - Account B works as Collaborator using Ubuntu/WSL
 - Both accounts contribute using branches and Pull Requests
+vim team.md
